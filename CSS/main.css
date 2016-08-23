@@ -1,0 +1,34 @@
+header{
+	background-color:#f4c03e;
+	height:100%;
+	padding-left:40px;
+	padding-right:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+h1,h3{
+	Margin:0 auto;
+	padding-bottom:10px;
+}
+h1{
+	font-size:27px;
+}
+.box{
+	text-align: center;
+	border: 1px solid lightgrey;
+}
+.row{
+	margin-top:15px;
+}
+.name{
+	font-weight:bold;
+	padding-top:20px;
+	text-align: left;
+	padding-left:20px;
+}
+.character{
+	padding-top:10px;
+	padding-bottom:20px;
+	text-align: left;
+	padding-left:20px;
+}
